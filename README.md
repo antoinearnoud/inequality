@@ -34,4 +34,4 @@ Contact
 -----
 Primary Email: IMF-Inequality@imf.org
 
-Xin Tang (xtang@imf.org), Marina Mendes Tarvares (mmendestavares@imf.org), Heesun Kiem (HKiem@imf.org) and Kei Moriya (KMoriya@imf.org).
+Xin Tang (xtang@imf.org) and Marina Mendes Tarvares (mmendestavares@imf.org).
