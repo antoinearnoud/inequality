@@ -32,4 +32,6 @@ Folder ./Documentation contains further documentation. (i) Guide.pdf provides a 
 
 Contact
 -----
-Primary Email: IMF-Inequality@imf.org, Xin Tang (xtang@imf.org), Marina Mendes Tarvares (mmendestavares@imf.org), Heesun Kiem (HKiem@imf.org) and Kei Moriya (KMoriya@imf.org).
+Primary Email: IMF-Inequality@imf.org
+
+Xin Tang (xtang@imf.org), Marina Mendes Tarvares (mmendestavares@imf.org), Heesun Kiem (HKiem@imf.org) and Kei Moriya (KMoriya@imf.org).
